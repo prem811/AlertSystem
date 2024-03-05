@@ -19,7 +19,7 @@ Driver Drowsiness Detection using Convolutional Neural Networks (CNN) is an inno
 
 ## Usage 🚀
 
-1. Clone this repository: `git clone https://github.com/prem811/drowsiness_detection.git`
+1. Clone this repository: `git clone [https://github.com/prem811/drowsiness_detection.git](https://github.com/prem811/AlertSystem.git)`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script: `python drowsiness_detection.py`
 
