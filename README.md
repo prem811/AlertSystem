@@ -1,7 +1,5 @@
 # Driver Drowsiness Detection using CNN 🚗💤
 
-![Drowsy Driver](drowsy_driver_image.jpg)
-
 # Overview 🌟
 
 Driver Drowsiness Detection using Convolutional Neural Networks (CNN) is an innovative project aimed at enhancing road safety by leveraging computer vision technology. By analyzing live video streams, this system can detect signs of driver fatigue, such as drooping eyelids and yawning, in real-time. Through the implementation of CNN algorithms, common facial features are recognized and monitored, allowing for timely alerts to be issued to drivers, thereby reducing the risk of accidents caused by drowsy driving. This project underscores the potential of artificial intelligence in addressing critical safety challenges on the road.
@@ -21,7 +19,7 @@ Driver Drowsiness Detection using Convolutional Neural Networks (CNN) is an inno
 
 ## Usage 🚀
 
-1. Clone this repository: `git clone https://github.com/yourusername/drowsiness_detection.git`
+1. Clone this repository: `git clone https://github.com/prem811/drowsiness_detection.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script: `python drowsiness_detection.py`
 
